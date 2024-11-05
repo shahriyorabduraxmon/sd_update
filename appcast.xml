@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>SD WORK</title>
+        <description>Most recent updates to SD WORK</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.0+1</title>
+            <appId>com.dwed.tmed</appId>
+            <description>
+                 <ul> 
+                        <li>Auto update SD WORK</li>
+                        <li>SD WORK</li>
+                    </ul> 
+            </description>
+            <pubDate>Sun, 05 september 2024 12:00:00 +0800</pubDate>
+            <enclosure url="https://github.com/shahriyorabduraxmon/sd_update/releases/download/Work/mpd_doctor-1.0.0.exe"
+                sparkle:dsaSignature="MD0CHQDKkNLGFbOIHhqlLTmQLLBoAuk1v/ss9UlArsSDAhxezVXyeYa8xSJgezdJvalsFs79NXFIY9lYSJyS"
+                sparkle:version="1.0.0+1"
+                sparkle:os="windows"
+                length="0"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
